@@ -1,5 +1,6 @@
 # Matlab-Final-Project | 伯特蘭悖論
-111-1 Scientific Computing Software | Final Project
+> 111-1 Scientific Computing Software
+
 * Group：L
 * Member：王丹、王雅醇、楊朝硯、廖翊翔
 
